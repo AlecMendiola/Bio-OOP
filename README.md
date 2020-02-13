@@ -1,2 +1,2 @@
 # Bio-OOP
-Code snippet for a Biology course requiring some OOP
+Tasked with creating a bacteria class, a chlamydia class that inherits the bacteria class, filling 5 chlamydia objects with dummy data, then showing examples of their methods and their attributes
